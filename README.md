@@ -1,4 +1,4 @@
-# Stock_sentiment_analysis_using-news-headlinesews-headline
+# Stock_sentiment_analysis_using-news-headline
 
 
 class 1 indicates stock price increased
