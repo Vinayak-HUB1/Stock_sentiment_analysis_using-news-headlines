@@ -1,0 +1,5 @@
+1.download repository
+2.create enviroment and install requirements.txt file
+3.unzip model.pkl
+4.run app.py
+5.paste this link on browser [http://127.0.0.1:8000/docs]
